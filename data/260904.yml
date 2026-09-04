@@ -7,7 +7,7 @@ about:
   head: bd5d50e
   archived: false
   latestVersion: v0.7.0
-  collectedAt: 2026-09-04T19:58:24Z
+  collectedAt: 2026-09-04T20:41:24Z
 timeline:
   created: 2024-07-08
   lastCommit: 2026-08-05
@@ -80,5 +80,33 @@ total:
   openIssue: 9
   commit: 146
 ---
+path: /home/runner/.x-repo/github.com/dhth/omm
+collectedAt: 2026-09-04T20:41:24Z
+loc:
+  Go:
+    code: 5183
+    comments: 72
+    blanks: 871
+    files: 48
+  Toml:
+    code: 79
+    comments: 0
+    blanks: 16
+    files: 1
+  Yaml:
+    code: 7
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 677
+    blanks: 273
+    files: 30
+total:
+  code: 5312
+  comments: 752
+  blanks: 1160
+  files: 80
 ---
 
