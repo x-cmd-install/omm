@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7419386,
       "digest": "sha256:95f6e51ecff1bddc69e7813f5117e441b3921b8ed051922a8de020da8b4d35f0",
-      "download_count": 196,
+      "download_count": 197,
       "created_at": "2026-03-06T12:52:26Z",
       "updated_at": "2026-03-06T12:52:27Z",
       "browser_download_url": "https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_linux_amd64.tar.gz"
