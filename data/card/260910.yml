@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.7.0"
   latestRelease: "v0.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:00:26Z
+  collectedAt: 2026-09-10T16:17:53Z
 timeline:
   created: 2024-07-08
   lastCommit: 2026-08-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-06
   lastPrerelease: 
 popularity:
-  star: 331
+  star: 332
   watcher: 3
   fork: 4
   release: 14
@@ -83,7 +83,7 @@ total:
   commit: 146
 ---
 path: /home/runner/.x-repo/github.com/dhth/omm
-collectedAt: 2026-09-10T05:00:27Z
+collectedAt: 2026-09-10T16:17:54Z
 loc:
   Go:
     code: 5183
