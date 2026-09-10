@@ -4,7 +4,7 @@
 
 on-my-mind: a keyboard-driven task manager for the command line
 
-![omm](https://repo.x-cmd.io/omm.svg)
+![omm](https://repo.x-cmd.io/omm.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,22 @@ x install omm
 - **最新版本**: `v0.7.0` (2026-03-06)
 - **最近提交**: 2026-08-05
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-03-06T12:54:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [omm_0.7.0_checksums.txt](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_checksums.txt) | 382 B | `other` |
+| [omm_0.7.0_checksums.txt.pem](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_checksums.txt.pem) | 3.0 KiB | `other` |
+| [omm_0.7.0_checksums.txt.sig](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_checksums.txt.sig) | 96 B | `other` |
+| [omm_0.7.0_darwin_amd64.tar.gz](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_darwin_amd64.tar.gz) | 7.2 MiB | `native/darwin/x64` |
+| [omm_0.7.0_darwin_arm64.tar.gz](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_darwin_arm64.tar.gz) | 6.8 MiB | `native/darwin/arm64` |
+| [omm_0.7.0_linux_amd64.tar.gz](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_linux_amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+| [omm_0.7.0_linux_arm64.tar.gz](https://github.com/dhth/omm/releases/download/v0.7.0/omm_0.7.0_linux_arm64.tar.gz) | 6.5 MiB | `native/linux/arm64` |
 
 ## 流行度
 
-- **Star**: 331 · **Fork**: 4 · **开放 issue**: 21 · **贡献者**: 1
+- **Star**: 332 · **Fork**: 4 · **开放 issue**: 21 · **贡献者**: 1
 
 ## 累计统计
 
@@ -61,4 +72,4 @@ omm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:00:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:59Z._
