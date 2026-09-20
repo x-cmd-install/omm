@@ -4,7 +4,7 @@
 
 on-my-mind: a keyboard-driven task manager for the command line
 
-![omm](https://repo.x-cmd.io/omm.svg)
+[![x-cmd/install — omm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/omm.svg)](https://x-cmd.com/install/omm)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **5,269** lines of code across **80** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 10 | 0 | 0 | 1 | 13 |
-| 90d | 2026-06-20 | 0 | 10 | 0 | 0 | 1 | 13 |
-| last180d | 2026-03-22 | 0 | 26 | 1 | 0 | 1 | 31 |
-| 360d | 2025-09-23 | 1 | 55 | 1 | 0 | 4 | 63 |
-| last720d | 2024-09-28 | 2 | 85 | 2 | 2 | 9 | 101 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 10 | 0 | 0 | 1 | 13 |
+| 90d | 2026-06-22 | 0 | 10 | 0 | 0 | 1 | 13 |
+| last180d | 2026-03-24 | 0 | 26 | 1 | 0 | 1 | 31 |
+| 360d | 2025-09-25 | 1 | 55 | 1 | 0 | 4 | 62 |
+| last720d | 2024-09-30 | 2 | 85 | 2 | 2 | 9 | 101 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for omm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:57:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:31Z._
