@@ -32,7 +32,7 @@ Total: **5,269** lines of code across **80** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.0` (2026-03-06)
-- **Last commit**: 2026-08-05
+- **Last commit**: 2026-09-20
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,269** lines of code across **80** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 98 · **Open PRs**: 2 · **Closed issues**: 12 · **Open issues**: 9 · **Commits**: 146
+- **Releases**: 14 · **Merged PRs**: 98 · **Open PRs**: 2 · **Closed issues**: 12 · **Open issues**: 9 · **Commits**: 147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 0 | 10 | 0 | 0 | 1 | 13 |
-| 90d | 2026-06-22 | 0 | 10 | 0 | 0 | 1 | 13 |
-| last180d | 2026-03-24 | 0 | 26 | 1 | 0 | 1 | 31 |
-| 360d | 2025-09-25 | 1 | 55 | 1 | 0 | 4 | 62 |
-| last720d | 2024-09-30 | 2 | 85 | 2 | 2 | 9 | 101 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-23 | 0 | 10 | 0 | 0 | 1 | 14 |
+| 90d | 2026-06-23 | 0 | 10 | 0 | 0 | 1 | 14 |
+| last180d | 2026-03-25 | 0 | 26 | 1 | 0 | 1 | 32 |
+| 360d | 2025-09-26 | 1 | 55 | 1 | 0 | 4 | 63 |
+| last720d | 2024-10-01 | 2 | 85 | 2 | 2 | 9 | 102 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for omm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:31Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:11:13Z._
