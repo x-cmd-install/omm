@@ -14,12 +14,12 @@ x install omm
 
 ## Code insight
 
-Total: **5,269** lines of code across **80** files in the top 5 languages.
+Total: **5,272** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 5,183 | 72 | 871 | 48 |
-| Toml | 79 | 0 | 16 | 1 |
+| Toml | 82 | 0 | 18 | 1 |
 | Yaml | 7 | 1 | 0 | 1 |
 | Markdown | 0 | 677 | 273 | 30 |
 
@@ -32,7 +32,7 @@ Total: **5,269** lines of code across **80** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.0` (2026-03-06)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-11
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,269** lines of code across **80** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 99 · **Open PRs**: 3 · **Closed issues**: 12 · **Open issues**: 9 · **Commits**: 148
+- **Releases**: 14 · **Merged PRs**: 103 · **Open PRs**: 3 · **Closed issues**: 12 · **Open issues**: 9 · **Commits**: 152
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-12 | 0 | 1 | 1 | 0 | 0 | 2 |
-| 90d | 2026-08-13 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last180d | 2026-05-15 | 0 | 19 | 2 | 0 | 1 | 25 |
-| 360d | 2025-11-16 | 1 | 47 | 2 | 0 | 1 | 56 |
-| last720d | 2024-11-21 | 2 | 86 | 3 | 2 | 9 | 103 |
+| 30d | 2026-10-13 | 0 | 5 | 1 | 0 | 0 | 5 |
+| last60d | 2026-09-13 | 0 | 5 | 1 | 0 | 0 | 6 |
+| 90d | 2026-08-14 | 0 | 5 | 1 | 0 | 0 | 6 |
+| last180d | 2026-05-16 | 0 | 23 | 2 | 0 | 1 | 29 |
+| 360d | 2025-11-17 | 1 | 51 | 2 | 0 | 1 | 60 |
+| last720d | 2024-11-22 | 2 | 90 | 3 | 2 | 9 | 107 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for omm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:21:52Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:31:47Z._
